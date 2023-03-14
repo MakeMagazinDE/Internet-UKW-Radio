@@ -3,14 +3,13 @@
 Maker Media GmbH
 *** 
 
-# Internetradio
-Internet-Radio mit Pi Zero
+# Internet-UKW-Radio
+Radio mit ESP32 und Akku
 
-### Diese kleine, aber feine Schaltung spielt Gratis-Radiostationen aus dem Internet und MP3-Dateien. Durch einen hochwertigen DA-Wandler zusammen mit Stereoverstärker und -lautsprechern klingt es überraschend gut.
+### Radiostationen aus dem Internet oder direkt empfangen via UKW: Dieses kleine Radio läßt sie erklingen. Da es mit einem Akku ausgestattet ist, funktioniert das auch unterwegs.
 
-Als Küchenradio geplant bringt dieses Radio auch andere Zimmer zum Klingen: Bedient wird per Tastatur, durch Klopfen oder auch über Smartphone-Apps.
+Mit dem schnell zu wechselnden 3D-Druck-Gehäuse können Sie das Design schnell anpassen.
 
 ![Picture](https://github.com/heise/Internetradio/blob/master/radio.png) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 1/19 ab Seite 38](https://www.heise.de/select/make/2019/1/1551100253897264)** zu lesen. 
-Hier gibt es die Materialliste, Konfigurationsdateien und Python-Skripte für das Internet-Radio zum Download.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 2/23 ab Seite 14](https://www.heise.de/select/make/2019/1/1551100253897264)** zu lesen. 
