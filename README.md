@@ -13,3 +13,4 @@ Mit dem schnell zu wechselnden 3D-Druck-Gehäuse können Sie das Design schnell 
 ![Picture](https://github.com/MakeMagazinDE/Internet-UKW-Radio/blob/main/Bild16.JPG) 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 2/23 ab Seite 14](https://www.heise.de/select/make/2019/1/1551100253897264)** zu lesen. 
+Hier die Links zu den Bibliotheken **[ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S)** und **[radio](https://github.com/mathertel/Radio)**.
