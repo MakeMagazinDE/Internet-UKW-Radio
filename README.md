@@ -8,7 +8,7 @@ Radio mit ESP32 und Akku
 
 ### Radiostationen aus dem Internet oder direkt empfangen via UKW: Dieses kleine Radio läßt sie erklingen. Da es mit einem Akku ausgestattet ist, funktioniert das auch unterwegs.
 
-Mit dem schnell zu wechselnden 3D-Druck-Gehäuse können Sie das Design schnell anpassen.
+Mit dem einfach zu wechselnden 3D-Druck-Gehäuse können Sie das Design schnell anpassen.
 
 ![Picture](https://github.com/MakeMagazinDE/Internet-UKW-Radio/blob/main/radio.jpeg) 
 
