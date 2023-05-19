@@ -32,10 +32,10 @@ LiquidCrystal_I2C lcd(0x3f,20,4);
 Audio audio(true, I2S_DAC_CHANNEL_BOTH_EN);
 AiEsp32RotaryEncoder rotaryEncoder = AiEsp32RotaryEncoder(ROTARY_ENCODER_A_PIN, ROTARY_ENCODER_B_PIN, ROTARY_ENCODER_BUTTON_PIN, ROTARY_ENCODER_VCC_PIN, ROTARY_ENCODER_STEPS);
 
-String ssid =    "Heise-Gaeste";
-String password = "NurFuerHeiseGaeste!";
-String ssid2 = "hbvdr";
-String password2 = "babybaer";
+String ssid =    "Ihr WLAN-Name";
+String password = "Ihr WLAN-Passwort";
+String ssid2 = "Name des 2. WLANS";
+String password2 = "Passwort des 2. Wlans";
 String mode = "wlan";
 uint8_t Stationsnummer = 0;
 uint32_t lastchange = 0;
