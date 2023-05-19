@@ -14,3 +14,5 @@ Mit dem einfach zu wechselnden 3D-Druck-Gehäuse können Sie das Design schnell 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 2/23 ab Seite 14](https://www.heise.de/select/make/2023/2/2304606541489724045)** zu lesen. 
 Hier die Links zu den Bibliotheken **[ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S)** und **[radio](https://github.com/mathertel/Radio)**.
+
+Unter Firmware gibt es zwei Versionen, mit und ohne UKW-Empfang.
